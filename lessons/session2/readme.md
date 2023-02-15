@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Session 2
+=======
+# Session 2 - Counting words
+>>>>>>> 8589a7a7e52909ac4857406e527811fbca977b6b
 
 ## Overview
 
